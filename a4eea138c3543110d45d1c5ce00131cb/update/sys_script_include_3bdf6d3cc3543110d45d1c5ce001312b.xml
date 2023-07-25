@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_975111_pa1.SIforpa1</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>SIforpa1</name>
+        <script><![CDATA[var SIforpa1 = Class.create();
+SIforpa1.prototype = {
+    initialize: function() {
+    },
+
+    type: 'SIforpa1'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-07-25 11:11:54</sys_created_on>
+        <sys_id>3bdf6d3cc3543110d45d1c5ce001312b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SIforpa1</sys_name>
+        <sys_package display_value="pa1" source="x_975111_pa1">a4eea138c3543110d45d1c5ce00131cb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="pa1">a4eea138c3543110d45d1c5ce00131cb</sys_scope>
+        <sys_update_name>sys_script_include_3bdf6d3cc3543110d45d1c5ce001312b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-07-25 11:11:54</sys_updated_on>
+    </sys_script_include>
+</record_update>
